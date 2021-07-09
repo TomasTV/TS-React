@@ -1,3 +1,5 @@
+# React & Typescript project (Basic Shopping Cart)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
